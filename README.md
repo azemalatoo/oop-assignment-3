@@ -53,21 +53,3 @@ This Java project simulates a basic personal bank account management system. It 
     * `4. Print Transaction History`: View the transaction history.
     * `5. Get Account Information`: view account holder name and account number
     * `6. Exit`: Exit the program.
-
-## Dependencies
-
-* Java Development Kit (JDK)
-
-## Notes
-
-* This is a basic implementation and does not include features like database storage or user authentication.
-* The transaction history is stored in memory and is lost when the program exits.
-* Error handling is basic.
-
-## Author
-
-[Your Name]
-
-## License
-
-This project is licensed under the MIT License.
